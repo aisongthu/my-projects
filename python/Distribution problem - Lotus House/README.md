@@ -5,7 +5,7 @@ This repository contains code and documentation for solving the distribution pro
 ## Folder Structure
 
 - `Distribution problem.ipynb`: Jupyter Notebook that creates and solves the distribution model.
-- `Problem Description.docx`: Document detailing the problem description, mathematical model, inputs, implementation, and results.
+- `Problem Description.pdf`: Document detailing the problem description, mathematical model, inputs, implementation, and results.
 
 ## Notebook Details
 
