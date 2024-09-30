@@ -18,7 +18,7 @@ This folder contains VBA scripts and projects from the year 2021.
     ```
 2. Navigate to the project directory:
     ```bash
-    cd vba/
+    cd vba/2021/
     ```
 3. Open the relevant subfolder and notebooks or scripts to run the analyses.
 
