@@ -14,7 +14,7 @@ This folder contains code and documentation for analyzing and optimizing assembl
 
 ### 2. Market Research - Le Bleu Soleil
 
-This folder contains code and data used to analyze market research data for the Le Bleu Soleil project.
+This folder contains code and data used to analyze market research data for the Pro-Act: Le Bleu Soleil project.
 
 - **data.xlsx**: Primary dataset used for correlation and descriptive statistics analysis.
 - **data2.xlsx**: Secondary dataset used for ranking decision-making factors.
