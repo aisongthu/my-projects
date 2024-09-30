@@ -1,6 +1,6 @@
 # VBA Projects
 
-This repository contains VBA scripts for various projects. Currently I only upload the projects for 2021, because 2022 and 2023 contains sensitive data.
+This folder contains VBA scripts for various projects. Currently I only upload the projects for 2021, because 2022 and 2023 contains sensitive data.
 
 ## Folder Structure
 
