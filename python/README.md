@@ -1,6 +1,6 @@
 # Python Projects
 
-This repository contains various Python projects focused on different domains such as deep learning, market research, and optimization problems.
+This folder contains various Python projects focused on different domains such as deep learning, market research, and optimization problems.
 
 ## Folder Structure
 
