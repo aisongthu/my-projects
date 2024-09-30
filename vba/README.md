@@ -10,6 +10,7 @@ This folder contains VBA scripts and projects from the year 2021.
 
 - **RenameSortTool.bas**: VBA code for renaming and sorting files in any folder. The user can pick the source folder and destination folder.
 - **ZipTool.bas**: VBA code for zipping all the files which have the same first 10 characters in the file name. The user can pick the source folder.
+- **ECCNtool.xlsm**: A sample `.XLSM file` for testing.
 
 ### 2. 2022
 
