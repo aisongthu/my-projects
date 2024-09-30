@@ -1,6 +1,6 @@
 # Market Research - Le Bleu Soleil
 
-This repository contains code and data used to analyze market research data for the Le Bleu Soleil project.
+This repository contains code and data used to analyze market research data for the Pro-Act: Le Bleu Soleil project.
 
 ## Folder Structure
 
