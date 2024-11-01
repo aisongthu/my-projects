@@ -16,6 +16,7 @@ This folder contains code and documentation for developing Content-based and Col
 - **Supervised Learning-NMF.ipynb**: NMF-based recommender system
 - **Supervised Learning-neural network embedding.ipynb**: Neural network embedding-based recommender system
 - **Ranking systems.ipynb**: ranking systems by evaluation metrics (Precision, Recall, F1-Score, RMSE)
+
 ### 2. Deep Learning and Reinforcement Learning in Assembly Lines
 
 This folder contains code and documentation for analyzing and optimizing assembly line balancing problems using deep learning and reinforcement learning techniques.
